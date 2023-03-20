@@ -1,0 +1,25 @@
+{
+  "name": "verify-threejs",
+  "version": "1.0.0",
+  "description": "一个基于threejs的前端验证组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs",
+    "verify",
+    "verification",
+    "verification code",
+    "verification code component",
+    "verification code plugin",
+    "verification code threejs",
+    "verification code threejs plugin"
+  ],
+  "author": "wanghaijun",
+  "license": "ISC",
+  "devDependencies":{
+    "three": "^0.150.1",
+    "gsap": "^3.11.4"
+  }
+}
