@@ -638,6 +638,7 @@ function verify(
               }
           }`;
             Object.assign(lodingContainer.style, lodingContainerStyles);
+            if(document.styleSheets.length === 0) document.head.appendChild(document.createElement('style'));
             const styleSheet = document.styleSheets[0];
             styleSheet.insertRule(keyframes, styleSheet.cssRules.length);
             verifyBody.appendChild(lodingContainer);
