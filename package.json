@@ -1,8 +1,12 @@
 {
-  "name": "verify-threejs1",
-  "version": "0.0.2",
+  "name": "verify-threejs",
+  "version": "0.0.1",
   "description": "一个基于threejs的前端验证组件",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WillemHia/verify-threejs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +23,10 @@
   "author": "wanghaijun",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.150.1",
-    "gsap": "^3.11.4"
+    "gsap": "^3.11.4",
+    "three": "^0.150.1"
+  },
+  "devDependencies": {
+    "tern": "^0.24.3"
   }
 }

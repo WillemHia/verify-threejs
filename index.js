@@ -647,7 +647,7 @@ function verify(
                     width: `8px`,
                     height: `8px`,
                     borderRadius: '50%',
-                    backgroundColor: 'rgba(0,0,0,0.5)',
+                    backgroundColor: 'rgba(0,0,0,0.7)',
                     animation: 'verifyLoding 0.4s ease-in-out alternate infinite',
                     animationDelay: `${i * 0.1}s`
                 }
