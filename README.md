@@ -1,5 +1,5 @@
 # install
-npm install --save verify-threejs
+npm install verify-threejs
 
 # usage
 verify(

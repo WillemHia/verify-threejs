@@ -6,10 +6,10 @@
 /**
  * 
  * @param verifyBody 
- * @param undefined 
- * @param undefined 
- * @param undefined 
- * @param undefined 
- * @param success 
+ * @param sizeRatio 
+ * @param theme 
+ * @param insideColor 
+ * @param outsideColor 
+ * @param success
  */
-declare function verify(verifyBody : any, param2 : /* {sizeRatio */ any, param3 : /* theme */ any, param4 : /* insideColor */ any, param5 : /* outsideColor */ any, success : any): void;
+declare function verify(verifyBody : any, sizeRatio : /* {sizeRatio */ any, theme : /* theme */ any, insideColor : /* insideColor */ any, outsideColor : /* outsideColor */ any, success/*}*/ : any): void;
