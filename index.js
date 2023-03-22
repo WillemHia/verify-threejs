@@ -7,7 +7,7 @@ import gsap from 'gsap'
 
 
 
-function verify(
+export default function verify(
     verifyBody,{
     sizeRatio,
     theme,
@@ -694,4 +694,3 @@ function verify(
     }
 }
 
-module.exports = verify;
