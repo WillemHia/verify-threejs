@@ -12,7 +12,7 @@ npm install verify-threejs
 ```
 
 ```javascript
-import verify from "./js/verify";
+import verify from "verify-threejs";
 
 document.querySelector('#btn').addEventListener('click', () => {
     verify(
