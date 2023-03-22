@@ -25,7 +25,7 @@ document.querySelector('#btn').addEventListener('click', () => {
 })
 ```
 
-参数
+参数传递，函数一共可以接收两个参数，第一个参数是dom元素；第二个参数是一个配置对象，下面是第二个参数详细介绍
 
 ```javascript
  {
