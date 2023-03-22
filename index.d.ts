@@ -12,6 +12,6 @@
  * @param undefined 
  * @param success} 
  */
-export function verify(verifyBody : any, param2 : /* {sizeRatio */ any, param3 : /* theme */ any, param4 : /* insideColor */ any, param5 : /* outsideColor */ any, success : any): void;
+declare function verify(verifyBody : any, param2 : /* {sizeRatio */ any, param3 : /* theme */ any, param4 : /* insideColor */ any, param5 : /* outsideColor */ any, success : any): void;
 
-//暴露模块
+export = verify;
