@@ -1,6 +1,6 @@
 {
   "name": "verify-threejs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "一个基于threejs的前端验证组件",
   "main": "index.js",
   "repository": {
