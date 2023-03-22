@@ -1,6 +1,6 @@
 {
   "name": "verify-threejs",
-  "version": "0.0.11",
+  "version": "1.0.0",
   "description": "一个基于threejs的前端验证组件",
   "main": "index.js",
   "repository": {
@@ -20,8 +20,8 @@
     "verification code threejs",
     "verification code threejs plugin"
   ],
-  "author": "wanghaijun",
-  "license": "ISC",
+  "author": "andywill",
+  "license": "MIT",
   "dependencies": {
     "gsap": "^3.11.4",
     "three": "^0.150.1"
